@@ -9,6 +9,7 @@ This directory contains guidelines and standards to improve code quality, mainta
 ## Categories
 
 ### General Programming
+
 - Naming conventions
 - Code organization
 - Documentation standards
@@ -16,18 +17,21 @@ This directory contains guidelines and standards to improve code quality, mainta
 - Testing strategies
 
 ### Language-Specific
+
 - Best practices for specific programming languages
 - Style guides and conventions
 - Common pitfalls to avoid
 - Performance optimization
 
 ### Project Management
+
 - Version control workflows
 - Code review processes
 - Project structure recommendations
 - Collaboration guidelines
 
 ### Security
+
 - Secure coding practices
 - Authentication and authorization patterns
 - Data protection guidelines
